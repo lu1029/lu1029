@@ -71,15 +71,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/lua1029/lua1029/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Luan Alves">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Luan%20Alves&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
